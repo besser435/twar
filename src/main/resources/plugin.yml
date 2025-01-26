@@ -1,0 +1,8 @@
+name: twar
+version: '0.1'
+main: org.diet.twar.Twar
+api-version: '1.20'
+prefix: twar
+authors: [ brandonusa, DIET ]
+description: TEAW's War Plugin for Towny
+website: https://github.com/besser435/twar
